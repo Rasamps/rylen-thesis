@@ -27,6 +27,7 @@ There are a couple ways in which this code can be quickly set-up and ran.
 Furthermore, you'll want to quickly comb through the Python files to ensure all the directories and paths are properly re-written for your environment.
 
 Lastly, a command line call of run.py might look something like this:
+
 ![GitHub Fig drawio](https://github.com/user-attachments/assets/d2ef0add-4420-426f-bbd4-639fe6b5cb13)
 
 ## Methodology
